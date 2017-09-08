@@ -1,7 +1,0 @@
-[ERROR]2017/09/07 12:07:44 List Objects failed: /s3bucket
-[ERROR]2017/09/07 12:07:51 List Objects failed: /s3bucket
-[ERROR]2017/09/07 12:10:17 NoSuchBucket: 
-	status code: 404, request id: tx000000000000000010fc6-0059b0c416-16feb-default, host id: 
-[ERROR]2017/09/07 12:10:43 List Objects failed: /s3bucket
-[ERROR]2017/09/07 12:10:47 List Objects failed: /s3bucket
-[ERROR]2017/09/08 16:59:49 List Objects failed: /demo
