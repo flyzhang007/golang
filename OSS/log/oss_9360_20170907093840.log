@@ -1,0 +1,9 @@
+[ERROR]2017/09/07 09:38:56 List Objects failed: /s3bucket
+[ERROR]2017/09/07 09:39:37 List Objects failed: /s3bucket
+[ERROR]2017/09/07 09:39:42 List Objects failed: /s3bucket
+[ERROR]2017/09/07 09:39:52 List Objects failed: /s3bucket?max=10
+[ERROR]2017/09/07 09:41:02 Invalid Request: GET /s3buckeT?max-keys=10
+[ERROR]2017/09/07 09:41:12 NoSuchBucket: 
+	status code: 404, request id: tx000000000000000010e17-0059b0a126-16feb-default, host id: 
+[ERROR]2017/09/07 09:42:07 NoSuchBucket: 
+	status code: 404, request id: tx000000000000000010e18-0059b0a15c-16feb-default, host id: 

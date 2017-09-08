@@ -1,0 +1,4 @@
+[ERROR]2017/09/07 10:46:42 Invalid Request: PUT /s3bucket/s_112-a?
+[ERROR]2017/09/07 10:46:51 Invalid Request: PUT /s3bucket/s_11?2-a
+[ERROR]2017/09/07 10:46:55 Invalid Request: PUT /s3bucket/s_11?2-a/
+[ERROR]2017/09/07 10:47:00 Invalid Request: PUT /s3bucket/s_11*2-a/

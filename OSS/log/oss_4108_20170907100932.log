@@ -1,0 +1,4 @@
+[ERROR]2017/09/07 10:09:36 NoSuchBucket: 
+	status code: 404, request id: tx000000000000000010e9f-0059b0a7cd-16feb-default, host id: 
+[ERROR]2017/09/07 10:10:05 Invalid Request: PUT /s3buckeT
+[ERROR]2017/09/07 10:11:21 Invalid Request: PUT /s5_bu

@@ -1,0 +1,4 @@
+[ERROR]2017/09/06 19:28:03 List Objects failed: /s3bucket?max=10
+[ERROR]2017/09/06 19:28:41 List Objects failed: /s3bucket?max=10&age=5
+[ERROR]2017/09/06 19:29:45 List Objects failed: /s3bucket?prefixs=s3
+[ERROR]2017/09/06 19:30:00 List Objects failed: /s3bucket?prefix=s3&max-keys=11
